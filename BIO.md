@@ -1,7 +1,5 @@
 # Tommy
 
-![My current profile pic](picture/picture.png?raw=true "Title")
-
 <p align="center">
   <img src="https://github.com/TommyWooo/Bio/blob/main/picture/picture.png?raw=true" alt="Tommy's custom profile pig"/>
 </p>
